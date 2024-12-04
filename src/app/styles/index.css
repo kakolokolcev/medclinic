@@ -1,0 +1,25 @@
+@import 'primeicons/primeicons.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .form-field {
+    @apply flex items-center gap-8 mb-4 max-[768px]:flex-col max-[768px]:items-start max-[768px]:gap-[10px];
+  }
+
+  .form-field-label {
+    @apply font-semibold w-[200px] flex-shrink-0;
+  }
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+#app {
+  height: 100%;
+}

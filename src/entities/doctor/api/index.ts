@@ -1,0 +1,1 @@
+export { useDoctorApi } from './api';
