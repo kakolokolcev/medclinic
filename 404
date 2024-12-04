@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="/medclinic/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medclinic</title>
+    <script type="module" crossorigin src="/medclinic/assets/index-DKmute59.js"></script>
+    <link rel="stylesheet" crossorigin href="/medclinic/assets/index-8tLPgTG5.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
